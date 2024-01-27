@@ -1,6 +1,7 @@
-
+import './App.css';
 import React from 'react';
-import CurrencyConvertor from './pages/CurrencyConvertor';
+import Minicontext from './pages/Minicontext';
+// import CurrencyConvertor from './pages/CurrencyConvertor';
 // import Counter from './components/Counter'
 // import Props from './pages/Props'
 // import Bgchanger from './pages/Bgchanger'
@@ -14,7 +15,8 @@ function App() {
     {/* <Props/> */}
     {/* <Bgchanger/> */}
     {/* <Passwordgenerator/> */}
-    <CurrencyConvertor/>
+    {/* <CurrencyConvertor/> */}
+    <Minicontext/>
     </>
   )
 }
