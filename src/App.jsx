@@ -1,6 +1,8 @@
 import './App.css';
 import React from 'react';
-import Minicontext from './pages/Minicontext';
+// import ToDoContextLocal from './pages/ToDoContextLocal';
+// import ThemeSwitcher from './pages/ThemeSwitcher';
+// import Minicontext from './pages/Minicontext';
 // import CurrencyConvertor from './pages/CurrencyConvertor';
 // import Counter from './components/Counter'
 // import Props from './pages/Props'
@@ -16,7 +18,9 @@ function App() {
     {/* <Bgchanger/> */}
     {/* <Passwordgenerator/> */}
     {/* <CurrencyConvertor/> */}
-    <Minicontext/>
+    {/* <Minicontext/> */}
+    {/* <ThemeSwitcher/> */}
+    {/* <ToDoContextLocal/> */}
     </>
   )
 }
